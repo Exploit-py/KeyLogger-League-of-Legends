@@ -31,13 +31,13 @@ After that, simply run the Keylogger
 ## Screenshots
 
 ### Login
-![Login](https://cdn.discordapp.com/attachments/933791098827059204/1184967215225770054/image.png?ex=658de5b7&is=657b70b7&hm=faba200e9daeefb993dfd43d1c6762637290bf6828853158794d9a6d38c1f0a3&)
+![Login](https://cdn.discordapp.com/attachments/933791098827059204/1184967215225770054/image.png?ex=664871f7&is=66472077&hm=4e77c45e0ccc68ae2fe3990f75ad18a2c48728fb4c9961708f1424760b3ec780&)
 
 ### Server receiving the TXT file.
-![Server](https://cdn.discordapp.com/attachments/933791098827059204/1184968667163799572/image.png?ex=658de711&is=657b7211&hm=c456314e8ae6a47b34ccfabb6af7dab109e31c3f0ee211a6712b5f14d38b1eea&)
+![Server](https://cdn.discordapp.com/attachments/933791098827059204/1184968667163799572/image.png?ex=66487351&is=664721d1&hm=29c68e9949aede45511b0b2a6cabe6b775a2922354652ac96b0fed51024b86d6&)
 
 ### Logs
-![Logs](https://cdn.discordapp.com/attachments/933791098827059204/1184969493303263434/image.png?ex=658de7d6&is=657b72d6&hm=e1dfb0206bf4f839aab2405b1b0ec80ac525769b76b699517967a83a783fae75&)
+![Logs](https://cdn.discordapp.com/attachments/933791098827059204/1184969493303263434/image.png?ex=66487416&is=66472296&hm=769d818fe6801eedb4a7fc22b6e5af70f695b195ad172023e395bf9b53d828c2&)
 ## Support
 
 - Send a DM to the Discord: .main.cpp
