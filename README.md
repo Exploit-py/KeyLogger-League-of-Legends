@@ -31,13 +31,13 @@ After that, simply run the Keylogger
 ## Screenshots
 
 ### Login
-![Login](https://cdn.discordapp.com/attachments/933791098827059204/1184967215225770054/image.png?ex=669834b7&is=6696e337&hm=dd4810882d9cef3fb98bc1b984d1bdf4e2d5ecc06164ada6c3834146db0af04c&)
+![Login](https://github.com/user-attachments/assets/526b8e82-89cb-4ff7-9d1f-48b642306194)
 
 ### Server receiving the TXT file.
-![Server](https://cdn.discordapp.com/attachments/933791098827059204/1184968667163799572/image.png?ex=66983611&is=6696e491&hm=c8146f39e25ca252d8425f1a2a7067873053199b29f75ab631cbe7990d3ec300&)
+![Server](https://github.com/user-attachments/assets/dd1e0331-b50b-432d-894b-e6161dc90be0)
 
 ### Logs
-![Logs](https://cdn.discordapp.com/attachments/933791098827059204/1184969493303263434/image.png?ex=669836d6&is=6696e556&hm=900d8e624b5f6c8ca120164d1d665cd93985992334ad118c11b5f66d22f28f93&)
+![Logs](https://github.com/user-attachments/assets/65d907a3-9c32-4f7e-a04f-60c6cc54c10a)
 ## Support
 
 - Send a DM to the Discord: .main.cpp
