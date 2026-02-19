@@ -1,23 +1,28 @@
 
-# League of Legends Keylogger
+# Input Behavior Research – League Client (PoC)
 
-This code constantly checks what is in the foreground. When the League of Legends client (login panel) is in the foreground, it starts saving everything typed into a text file (TXT) located in TMP path.
+This project is a behavioral research proof-of-concept developed to study how input monitoring tools operate at a low level in Windows environments.
 
-Additionally, if keys like "ctrl + C" or "ctrl + V" are pressed, it saves the last item from the clipboard in the TXT file. After the login panel is no longer in the foreground, it sends the TXT to the Flask server, which creates a folder with the victim's IP containing the logs.
+The goal is NOT offensive usage, but to understand how input capture mechanisms behave, how foreground window monitoring works, how clipboard interaction patterns occur, and potential detection surfaces used by anti-cheat and security systems.
 
-This project is purely for the purpose of studying and learning the C++ language and how a "keylogger" malware works. Any misuse or unauthorized use will be categorized as a crime. I do not take responsibility for your actions.
+All experiments were executed in controlled laboratory environments for educational and research purposes only.
 
 ## Autores
 
-- [@Exploit-py](https://www.github.com/exploit-py)
+- Gabriel Passos — Anti-Cheat & Behavior Research
 
+## Research Overview
+
+The application monitors when a specific window is active and records input events into a temporary local log file. When the monitored window loses focus, the log can be transmitted to a local Flask server to simulate behavioral analysis pipelines.
+
+This allows studying input monitoring patterns, data flow behavior, and detection vectors related to monitoring software.
 
 ## Features
 
-- Real-time monitoring and saving of typed keystrokes.
-- Monitors the foreground application in real-time.
-- Saves all typed input to a TXT file when the League of Legends client is open.
-- Captures and saves clipboard content.
+- Foreground window monitoring
+- Input event logging for research simulation
+- Clipboard observation
+- Local log processing via Flask server
 
 
 ## Deploy
@@ -27,7 +32,8 @@ To open the Flask server for receiving text files, open the terminal and type:
 ```bash
   python server.py
 ```
-After that, simply run the Keylogger
+Running the Research Server
+
 ## Screenshots
 
 ### Login
